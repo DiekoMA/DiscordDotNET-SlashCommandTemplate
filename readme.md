@@ -1,20 +1,36 @@
 ### A fully functional Discord Bot with Slash Command Support
 
-###### Setup
+#### Clone the repository
 
-Clone the repo - Use your repo clone url
+1. Open a terminal or command prompt on your local machine.
+2. Navigate to the directory where you want to create your project.
+3. Run the following command to clone the template repository:
 
-![alt text](https://github.com/DiekoMA/DiscordDotNET-SlashCommandTemplate/assets/vivaldi_aHcIA85guT.png?raw=true)
+   ```bash
+   git clone https://github.com/DiekoMA/DiscordDotNET-SlashCommandTemplate.git
+   ```
 
-![alt text](https://github.com/DiekoMA/DiscordDotNET-SlashCommandTemplate/assets/vivaldi_L57RBXMw7s.png?raw=true)
+
+#### Build and Run the App
 
 
-> https://github.com/DiekoMA/My-Totally-awesome-bot.git
+Once you have cloned the repository, you can build and run the .NET console app using the following steps:
 
-Then open the directory in command prompt and run dotnet restore and dotnet run
+1. Navigate to the cloned repository on your local machine.
+2. Open a terminal or command prompt in the repository directory.
+3. Run the following command to build the .NET console app:
 
-> cd My-Totally-awesome-bot
->
-> dotnet restore
->
-> dotnet
+
+```bash
+dotnet restore
+```
+
+This will compile the code and generate the necessary output files.
+
+4. Once the build is complete, you can run the .NET console app using the following command:
+
+```bash
+dotnet run
+```
+
+This will start the console app and display the output on the terminal or command prompt.
